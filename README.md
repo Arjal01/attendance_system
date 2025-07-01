@@ -1,5 +1,6 @@
 
 🎯 Face Recognition-Based Attendance System
+
 This is a Python-based attendance system using face recognition through OpenCV. It captures real-time facial data via webcam, recognizes faces using a trained model, and logs attendance with timestamp into a CSV file. A GUI built with Tkinter is included for ease of use.
 
 📌 Features
